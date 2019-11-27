@@ -32,10 +32,6 @@ class BigInt {
         friend std::ostream & operator<<(std::ostream &os,BigInt);
         void print();
 
-
-
-
-
 };
 
 #endif
