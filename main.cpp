@@ -20,7 +20,7 @@ int main() {
     cout<<endl;
 
     for(BigInt i = 0; i<3001;i++){
-        cout << "\ngoldRabbits("<< i <<") = " << goldRabbits(i);
+        cout << "goldRabbits("<< i <<") = " << goldRabbits(i);
     }
     //cout << goldRabbits(BigInt(3000));
     cout << "\nThis is the value of goldRabbits(3000)\n\n";
